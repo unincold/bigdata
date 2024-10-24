@@ -1,0 +1,4 @@
+com/example/App.class
+StockCount.class
+StockCount$TokenizerMapper.class
+StockCount$IntSumReducer.class
